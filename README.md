@@ -44,12 +44,10 @@ All The Things from my time at UAkron CS
 ## Highschool
 
 ### Apps I did on my own
-- https://github.com/mibzman/Compass
 - https://github.com/mibzman/Megatokyo
 - https://github.com/mibzman/Mr.Lovenstein
 - https://github.com/mibzman/Button-Wars
 
 ### School Project
 - https://github.com/Nodaskrub/UI
-
-
+- https://github.com/mibzman/Compass
