@@ -7,6 +7,17 @@ All The Things from my time at UAkron CS
 
 ## S4 - Spring 2017
 
+- https://github.com/mibzman/Algorithms
+- https://github.com/mibzman/DataStructures
+
+### AI
+- https://github.com/mibzman/AIClass
+- https://github.com/mibzman/Sybil
+
+### Software Engineering
+- https://github.com/mibzman/StreamVideo
+- https://github.com/mibzman/request-srcml
+
 ## S3 - Fall 2016
 
 ### iOS class
@@ -16,6 +27,7 @@ All The Things from my time at UAkron CS
 ### Other
 - https://github.com/mibzman/OOP
 - https://github.com/mibzman/Webpage
+- https://github.com/mibzman/DataStructures
 
 ## S2 - Spring 2016
 - https://github.com/mibzman/S2
