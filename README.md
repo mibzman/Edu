@@ -3,12 +3,21 @@ All The Things from my time at UAkron CS
 
 ## S6 - Spring 2018
 
+- https://github.com/mibzman/OS
+
+### Seinor Seminar
+
+- https://github.com/mibzman/PixelPersonGenerator
+
 ## S5 - Fall 2017
+
+- https://github.com/mibzman/NoSQLCLass
+- https://github.com/mibzman/cloud
+- https://gitlab.com/mibzman/ProgLang
 
 ## S4 - Spring 2017
 
 - https://github.com/mibzman/Algorithms
-- https://github.com/mibzman/DataStructures
 
 ### AI
 - https://github.com/mibzman/AIClass
@@ -26,7 +35,7 @@ All The Things from my time at UAkron CS
 
 ### Other
 - https://github.com/mibzman/OOP
-- https://github.com/mibzman/Webpage
+- https://github.com/mibzman/public_html/
 - https://github.com/mibzman/DataStructures
 
 ## S2 - Spring 2016
