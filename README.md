@@ -1,5 +1,5 @@
-# UAkron
-All The Things from my time at UAkron CS
+# EDU
+All notable projects related to my (semi)formal Computer Science education
 
 Note- For reasons of scholastic integrity some repos may remain private until no later than June 2018 
 
@@ -36,14 +36,14 @@ Note- For reasons of scholastic integrity some repos may remain private until no
 
 ## S3 - Fall 2016
 
+- https://github.com/mibzman/OOP
+- https://github.com/mibzman/public_html/
+- https://github.com/mibzman/DataStructures
+
 ### iOS class
 - https://github.com/mibzman/borick_project2
 - https://github.com/mibzman/iosMidterm
 
-### Other
-- https://github.com/mibzman/OOP
-- https://github.com/mibzman/public_html/
-- https://github.com/mibzman/DataStructures
 
 ## S2 - Spring 2016
 - https://github.com/mibzman/S2
