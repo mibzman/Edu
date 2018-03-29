@@ -1,13 +1,20 @@
 # UAkron
 All The Things from my time at UAkron CS
 
+Note- For reasons of scholastic integrity some repos may remain private until no later than June 2018 
+
 ## S6 - Spring 2018
 
 - https://github.com/mibzman/OS
 
+### Coding The Market
+
+- https://github.com/mibzman/game
+
 ### Seinor Seminar
 
 - https://github.com/mibzman/PixelPersonGenerator
+- https://github.com/mibzman/CryptoProfs
 
 ## S5 - Fall 2017
 
