@@ -56,5 +56,5 @@ Note- For reasons of scholastic integrity some repos may remain private until no
 - https://github.com/mibzman/Button-Wars
 
 ### School Project
-- https://github.com/Nodaskrub/UI
+- https://github.com/mibzman/MazeMap
 - https://github.com/mibzman/Compass
