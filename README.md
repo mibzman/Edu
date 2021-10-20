@@ -48,7 +48,10 @@ Note- For reasons of scholastic integrity some repos may remain private until no
 ## S2 - Spring 2016
 - https://github.com/mibzman/S2
 
-## Highschool
+## S1 - Fall 2015
+- N/A: No code of note
+
+## S0 - Highschool
 
 ### Apps I did on my own
 - https://github.com/mibzman/Megatokyo
